@@ -3,3 +3,4 @@
 import fromModuleObjectBasicData from './module/bacic-data.js'
 
 console.dir(fromModuleObjectBasicData)
+
